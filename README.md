@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! 👋<br><br>I'm Gaurav Daultani, a developer passionate about creating innovative web solutions.<br><br>🤝 I'm always looking to collaborate with fellow developers and designers.<br><br>💡 I'm also open to learning and growing. Right now, I'm expanding my skills in JavaScript and exploring its endless possibilities. <br><br>🌱 Ask me about web development, front-end technologies.<br><br><br><br>
+ Hi there! 👋<br><br>I'm Gaurav Daultani, a developer passionate about creating innovative web solutions.<br><br>🤝 I'm always looking to collaborate with fellow developers and designers.<br><br>💡 I'm also open to learning and growing. Right now, I'm expanding my skills in JavaScript and exploring its endless possibilities. <br><br>🌱 Ask me about web development, front-end technologies.<br><br>🔗 Reach me - gauravdaultani8@gmail.com<br><br>
 
 
 ## 🌐 Socials:
