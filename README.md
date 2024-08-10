@@ -11,8 +11,7 @@ Hey there! 👋<br><br>I'm Gaurav Daultani, a developer dedicated to crafting cu
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gauravdaultani&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravdaultani&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gauravdaultani&icon=6&color=3)](https://visitcount.itsvg.in)
