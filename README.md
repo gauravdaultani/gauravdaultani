@@ -1,12 +1,12 @@
 About Me:
 
-Hey there! 👋 I'm Gaurav Daultani, a developer passionate about crafting cutting-edge web solutions.
+Hey there! 👋 I'm Gaurav Daultani, a developer with a growing passion for DevOps and cloud technologies.
 
-🚀 I thrive on collaboration, always eager to team up with fellow developers and designers to bring innovative ideas to life.
+🚀 I thrive on collaboration, always eager to team up with fellow developers, designers, and DevOps engineers to bring innovative ideas to life.
 
-🧠 I'm constantly hungry for knowledge and growth. Currently, I'm diving deep into Next.js, TypeScript, and exploring backend development with JavaScript. I'm also a cloud enthusiast, excited about the intersection of web development and cloud computing.
+🧠 I'm constantly hungry for knowledge and growth. Currently, I'm delving deep into DevOps practices, mastering shell scripting, and configuration management with tools like Ansible. I'm also exploring Terraform, Jenkins, Docker, Kubernetes, and cloud platforms like AWS, focusing on services like EC2, S3, Lambda functions, and IAM.
 
-🌱 Let's chat about web development, cloud computing, or anything else that sparks your interest!
+🌱 Let's chat about DevOps, web development, cloud computing, or anything else that sparks your interest!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurav.daultani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravdaultani) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@gauravdaultani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Bulky_Confidence_871) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/_gauravdaultani)
 
